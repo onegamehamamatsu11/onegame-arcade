@@ -57,5 +57,14 @@ const GAME_LIST = [
     "emoji": "🟥🟦🟨🟩",
     "orientation": "portrait",
     "visible": true
+  },
+  {
+    "title": "トノジャンプ",
+    "description": "どこまで飛べるか試そう！",
+    "url": "https://onegamehamamatsu11.github.io/TONO-Jamp/",
+    "image": "",
+    "emoji": "🪽",
+    "orientation": "portrait",
+    "visible": true
   }
 ];
