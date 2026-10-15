@@ -4,14 +4,14 @@ const GAME_LIST = [
     "title": "カーテン占い",
     "description": "カーテンを引いて今日の運勢を占おう！",
     "emoji": "🔮",
-    "orientation": "portrait",
+    "orientation": "landscape",
     "url": ""
   },
   {
     "title": "うどんキャッチ",
     "description": "落ちてくる具材をキャッチして高得点を目指そう！",
     "emoji": "🍜",
-    "orientation": "portrait",
+    "orientation": "landscape",
     "url": "https://onegamehamamatsu11.github.io/Udongame001/"
   },
   {
@@ -39,7 +39,7 @@ const GAME_LIST = [
     "title": "エンドレスジャンプ",
     "description": "障害物を避けて遠くまで進もう！",
     "emoji": "🚀",
-    "orientation": "landscape",
+    "orientation": "portrait",
     "url": "https://onegamehamamatsu11.github.io/Endless-Jump/"
   },
   {
