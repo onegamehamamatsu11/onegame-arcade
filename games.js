@@ -1,5 +1,4 @@
-
- // ONEGAME ARCADE 管理画面から出力
+// ONEGAME ARCADE 管理画面から出力
 const GAME_LIST = [
   {
     "title": "カーテン占い",
@@ -47,7 +46,7 @@ const GAME_LIST = [
     "emoji": "🚀",
     "orientation": "portrait",
     "url": "https://onegamehamamatsu11.github.io/Endless-Jump/",
-    "tabletUrl": ""
+    "tabletUrl": "https://onegamehamamatsu11.github.io/Endless-Jump-Tab/"
   },
   {
     "title": "反射神経ゲーム",
@@ -55,7 +54,7 @@ const GAME_LIST = [
     "emoji": "⚡",
     "orientation": "portrait",
     "url": "https://onegamehamamatsu11.github.io/ReflexesGame/",
-    "tabletUrl": ""
+    "tabletUrl": "https://onegamehamamatsu11.github.io/ReflexesGame-Tabg/"
   },
   {
     "title": "4 color game",
@@ -74,6 +73,16 @@ const GAME_LIST = [
     "tabletUrl": "",
     "image": "",
     "emoji": "🪽",
+    "orientation": "portrait",
+    "visible": true
+  },
+  {
+    "title": "爆弾避け",
+    "description": "爆弾を避け続けよう！",
+    "url": "https://onegamehamamatsu11.github.io/Bomb-Dodging/",
+    "tabletUrl": "https://onegamehamamatsu11.github.io/Bomb-Dodging-Tab/",
+    "image": "",
+    "emoji": "💣",
     "orientation": "portrait",
     "visible": true
   }
