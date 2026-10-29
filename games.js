@@ -37,8 +37,8 @@ const GAME_LIST = [
     "description": "制限時間内に何回ボタンを押せるかな？",
     "emoji": "👆",
     "orientation": "portrait",
-    "url": "https://onegamehamamatsu11.github.io/button-mashing-game/",
-    "tabletUrl": ""
+    "url": "https://onegamehamamatsu11.github.io/Button-Mashing/",
+    "tabletUrl": "https://onegamehamamatsu11.github.io/Button-Mashing-game/"
   },
   {
     "title": "エンドレスジャンプ",
@@ -69,8 +69,8 @@ const GAME_LIST = [
   {
     "title": "トノジャンプ",
     "description": "どこまで飛べるか試そう！",
-    "url": "https://onegamehamamatsu11.github.io/TONO-Jamp/",
-    "tabletUrl": "",
+    "url": "https://onegamehamamatsu11.github.io/TONO-Jump/",
+    "tabletUrl": "https://onegamehamamatsu11.github.io/TONO-Jump/",
     "image": "",
     "emoji": "🪽",
     "orientation": "portrait",
