@@ -1,58 +1,67 @@
-// ONEGAME ARCADE 管理画面から出力
+
+ // ONEGAME ARCADE 管理画面から出力
 const GAME_LIST = [
   {
     "title": "カーテン占い",
     "description": "カーテンを引いて今日の運勢を占おう！",
     "emoji": "🔮",
     "orientation": "landscape",
-    "url": ""
+    "url": "",
+    "tabletUrl": ""
   },
   {
     "title": "うどんキャッチ",
     "description": "落ちてくる具材をキャッチして高得点を目指そう！",
     "emoji": "🍜",
     "orientation": "landscape",
-    "url": "https://onegamehamamatsu11.github.io/Udongame001/"
+    "url": "https://onegamehamamatsu11.github.io/Udongame001/",
+    "tabletUrl": ""
   },
   {
     "title": "けん玉崩し",
     "description": "けん玉がボールになったブロック崩し！",
     "emoji": "🎯",
     "orientation": "landscape",
-    "url": "https://onegamehamamatsu11.github.io/Kendama_kuzusi/"
+    "url": "https://onegamehamamatsu11.github.io/Kendama_kuzusi/",
+    "tabletUrl": ""
   },
   {
     "title": "トノの大冒険",
     "description": "レコードを集めながらゴールを目指そう！",
     "emoji": "🏃",
     "orientation": "landscape",
-    "url": "https://onegamehamamatsu11.github.io/2D-play-guide-adventure/"
+    "url": "https://onegamehamamatsu11.github.io/2D-play-guide-adventure/",
+    "tabletUrl": ""
   },
   {
     "title": "ボタン連打ゲーム",
     "description": "制限時間内に何回ボタンを押せるかな？",
     "emoji": "👆",
     "orientation": "portrait",
-    "url": "https://onegamehamamatsu11.github.io/button-mashing-game/"
+    "url": "https://onegamehamamatsu11.github.io/button-mashing-game/",
+    "tabletUrl": ""
   },
   {
     "title": "エンドレスジャンプ",
     "description": "障害物を避けて遠くまで進もう！",
     "emoji": "🚀",
     "orientation": "portrait",
-    "url": "https://onegamehamamatsu11.github.io/Endless-Jump/"
+    "url": "https://onegamehamamatsu11.github.io/Endless-Jump/",
+    "tabletUrl": ""
   },
   {
     "title": "反射神経ゲーム",
     "description": "反射神経を試してみよう！",
     "emoji": "⚡",
     "orientation": "portrait",
-    "url": "https://onegamehamamatsu11.github.io/ReflexesGame/"
+    "url": "https://onegamehamamatsu11.github.io/ReflexesGame/",
+    "tabletUrl": ""
   },
   {
     "title": "4 color game",
     "description": "問題文と同じ色のパネルを素早く押そう！",
     "url": "https://onegamehamamatsu11.github.io/4color-game/",
+    "tabletUrl": "",
     "image": "",
     "emoji": "🟥🟦🟨🟩",
     "orientation": "portrait",
@@ -62,6 +71,7 @@ const GAME_LIST = [
     "title": "トノジャンプ",
     "description": "どこまで飛べるか試そう！",
     "url": "https://onegamehamamatsu11.github.io/TONO-Jamp/",
+    "tabletUrl": "",
     "image": "",
     "emoji": "🪽",
     "orientation": "portrait",
